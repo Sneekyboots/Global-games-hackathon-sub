@@ -10,10 +10,13 @@
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Level01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 1.586796875,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 246.40835015508836,
+                "x": 318.8813943183497,
                 "y": 184.33361232829503
             }
         },
