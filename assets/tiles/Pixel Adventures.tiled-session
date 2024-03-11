@@ -3,10 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Level01.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
+        "Level01.tmx": {
+            "scale": 1.586796875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 318.2511939343213,
+                "y": 184.33361232829503
+            }
+        },
+        "Pixel Adventures.tsx": {
+            "scaleInDock": 1
+        }
     },
     "last.imagePath": "C:/Users/Sri Ranjini kavita/Desktop/pokedox/flame_games/assets/images/Terrain",
     "map.height": 23,
@@ -15,9 +27,11 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
+        "Level01.tmx"
     ],
     "project": "Pixel Adventures.tiled-project",
     "recentFiles": [
+        "Level01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
