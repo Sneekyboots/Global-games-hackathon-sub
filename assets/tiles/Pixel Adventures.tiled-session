@@ -7,12 +7,13 @@
     "expandedProjectPaths": [
         "."
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Level01.tmx": {
             "scale": 1.586796875,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 318.2511939343213,
+                "x": 246.40835015508836,
                 "y": 184.33361232829503
             }
         },
