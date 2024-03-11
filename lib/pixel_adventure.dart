@@ -10,7 +10,7 @@ class PixelAdventure extends FlameGame{
   late final CameraComponent cam;
 
   @override
-  final world=Level();
+  final world=Level(levelName: 'Level02');
 
   @override
   FutureOr<void> onLoad() async {

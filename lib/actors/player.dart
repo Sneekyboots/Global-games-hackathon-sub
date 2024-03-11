@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flame/components.dart';
 import 'package:flame_games/pixel_adventure.dart';
-import 'package:flutter/cupertino.dart';
+
 
 enum PlayerState { idle, running }
 
