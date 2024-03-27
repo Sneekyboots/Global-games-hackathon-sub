@@ -19,7 +19,7 @@ Visually Stunning Flame Engine: Immerse yourself in a vibrant and dynamic world 
 Intuitive Flutter-based UI: Enjoy smooth controls and a user-friendly interface built with Flutter.
 (Optional: Mention any additional features that make your game stand out.)
 Getting Started:
-![Uploading image.png…]()
+
 
 
 Prerequisites: Ensure you have Flutter and Android Studio installed.
