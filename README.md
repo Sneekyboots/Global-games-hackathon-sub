@@ -1,8 +1,8 @@
-# flame_games
 
-Hackathon submission for Global Games 
 
-##   heistyway:An RPG Game built on flutter and flame 
+# Hackathon submission for Global Games 
+
+###   Heistyway:An RPG Game built on flutter and flame 
 
 Welcome, adventurers, to the world of heistyway, where quirky heroes and epic quests collide!
 
@@ -37,7 +37,7 @@ We can't wait to see you unleash your inner ninja (or pink power) in [Game Title
 
 Additional Tips:
 
-Replace [Game Title] with your actual game's name.
+Replace gametitile with your actual game's name.
 Add more character descriptions to personalize your roster.
 Include screenshots or GIFs of your game in the README to visually entice players.
 Consider a short gameplay video showcasing the characters and mechanics.
